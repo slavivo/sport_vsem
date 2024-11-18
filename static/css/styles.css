@@ -1,0 +1,124 @@
+body {
+    color: #ff911e; ; /* Use the teal color for the text */
+    font-family: Arial, sans-serif; /* Use a modern font */
+}
+
+a {
+    color: #ff911e; /* Use the teal color for links */
+    text-decoration: none;
+}
+
+h1 {
+    margin: 0;
+    font-size: 36px;
+    text-align: center;
+    color: black;
+}
+
+.divider {
+    border-top: 1px solid #000; /* Change color as needed */
+    margin: 20px 0; /* Adjust as needed */
+}
+
+.line {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px; /* adjust as needed */
+    width: 100%; /* adjust as needed */
+    /*background-color: #f8f9fa; /* light gray */
+    padding: 0px 0;
+}
+
+.logo-container .logo {
+    height: 100%; /* adjust as needed */
+    width: auto; /* keeps the aspect ratio */
+}
+
+.circle-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 5px;
+}
+
+.circle-container .circle {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 0 10px;
+    object-fit: cover; /* This will ensure the images cover the full circle, cropping if necessary */
+    border: 3px solid black; ; /* Use the teal color for the circle border */
+}
+
+.circle-container .district-name {
+    margin-top: 10px;
+    font-size: 14px;
+    text-align: center;
+}
+
+.circle-container .circle:hover {
+    transform: scale(1.1); /* Adjust scale as needed */
+    transition: transform 0.3s ease-in-out; /* Adjust timing as needed */
+}
+
+.location-details h2, .additional-info h2{
+    margin-top: 0;
+}
+
+.location-details p, .additional-info p {
+    margin: 10px 0;
+}
+
+.location-details p strong, .additional-info p strong {
+    color: #333;
+}
+
+
+/* Style the container for sport locations */
+.locations-container {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    max-width: 1200px;
+    padding: 20px;
+}
+
+/* Style the individual location card */
+.location-card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+/* Style the left side (location details) */
+.location-details {
+    flex: 1;
+    padding: 20px;
+    text-align: left;
+}
+
+/* Style the right side (additional information) */
+.additional-info {
+    flex: 1;
+    background-color: #f9f9f9;
+    padding: 20px;
+    text-align: left;
+}
+
+.location-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+    transition: all 0.3s ease;
+}
