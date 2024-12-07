@@ -74,6 +74,7 @@ function createLocationCard(sample) {
             <h2>&nbsp;</h2>
             <p><strong>Aktivity:</strong> ${sample.activities || '-'}</p>
             <p><strong>Adresa:</strong> ${sample.address || '-'}</p>
+            <p><strong>Členství:</strong> ${sample.membership || '-'}</p>
         </div>
     `;
     
