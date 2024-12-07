@@ -10,7 +10,9 @@ Telefon: +420 739 061 883
 
 E-mail: aksternberk@centrum.cz 
 
-Adresa: Lidická 1273/17, 785 01 Šternberk 
+Adresa: Lidická 1273/17, 785 01 Šternberk
+
+Členství: -
 
  
 
@@ -26,7 +28,9 @@ Telefon: +420 585 636 329, +420 733 690 599
 
 Email: ondrej.jesina@upol.cz 
 
-Adresa: tř. Míru 645/115, 779 00 Olomouc 
+Adresa: tř. Míru 645/115, 779 00 Olomouc
+
+Členství: -
 
  
 
@@ -42,7 +46,9 @@ Telefon: +420 585 051 076
 
 Email: jasnenka-os@volny.cz 
 
-Adresa: Jiráskova 772, 783 91 Uničov 
+Adresa: Jiráskova 772, 783 91 Uničov
+
+Členství: ČHSO
 
  
 
@@ -58,7 +64,9 @@ Telefon: +420 733 742 175
 
 Email: - 
 
-Adresa: Ústín 8, 783 46 Ústín 
+Adresa: Ústín 8, 783 46 Ústín
+
+Členství: -
 
  
 
@@ -74,7 +82,9 @@ Telefon: +420 723 342 772
 
 Email: dufkal@centrum.cz 
 
-Adresa: Sladovní 492, 752 01 Kojetín 
+Adresa: Sladovní 492, 752 01 Kojetín
+
+Členství: ČSMPS
 
  
 
@@ -90,7 +100,9 @@ Telefon: +420 585 425 050
 
 Email: reditel@klic-css.cz 
 
-Adresa: Dolní Hejčínská 50/28, 779 00 Olomouc 
+Adresa: Dolní Hejčínská 50/28, 779 00 Olomouc
+
+Členství: ČHSO
 
  
 
@@ -106,7 +118,9 @@ Telefon: +420 774 301 733
 
 Email: zeldur@seznam.cz 
 
-Adresa: Víceměřice 32, 798 26 Nezamyslice 
+Adresa: Víceměřice 32, 798 26 Nezamyslice
+
+Členství: ČHSO
 
  
 
@@ -122,7 +136,9 @@ Telefon: +420 583 213 910
 
 Email: trundovasarka@seznam.cz 
 
-Adresa: Šumavská 13, 787 01 Šumperk 
+Adresa: Šumavská 13, 787 01 Šumperk
+
+Členství: ČHSO
 
  
 
@@ -138,7 +154,9 @@ Telefon: +420 606 524 403
 
 E-mail: m.domisch@seznam.cz 
 
-Adresa: Za Kosteleckou 4161/49, 796 01 Prostějov 
+Adresa: Za Kosteleckou 4161/49, 796 01 Prostějov
+
+Členství: -
 
  
 
@@ -154,7 +172,9 @@ Telefon: -
 
 Email: tomas@specssazsdc90.cz 
 
-Adresa: Nedbalova 36/27, 779 00 Olomouc – Topolany 
+Adresa: Nedbalova 36/27, 779 00 Olomouc – Topolany
+
+Členství: -
 
  
 
@@ -171,3 +191,5 @@ Telefon: +420 585 011 071
 E-mail: info@vincentinum.cz 
 
 Adresa: Sadová 1426, 785 01 Šternberk
+
+Členství: -

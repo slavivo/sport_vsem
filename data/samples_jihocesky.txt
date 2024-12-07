@@ -10,7 +10,9 @@ Telefon: +420 722 959 280
 
 Email: kraso.jh@seznam.cz  
 
-Adresa: U Stadionu 1115, 377 01 Jindřichův Hradec 
+Adresa: U Stadionu 1115, 377 01 Jindřichův Hradec
+
+Členství: ČHSO
 
  
 
@@ -28,6 +30,8 @@ Email: michalova@kanka.info
 
 Adresa: Helsinská 2731, 390 05 Tábor 
 
+Členství: -
+
  
 
 Diakonie Rolnička 
@@ -42,7 +46,9 @@ Telefon: +420 381 522 054, +420 739 570 420
 
 Email: skola@rolnicka.cz 
 
-Adresa: Mrázkova 700, 392 01 Soběslav 
+Adresa: Mrázkova 700, 392 01 Soběslav
+
+Členství: -
 
  
 
@@ -58,7 +64,9 @@ Telefon: +420 383 333 465
 
 Email: info@zmskolast.cz 
 
-Adresa: Plánkova 430, 386 01 Strakonice 
+Adresa: Plánkova 430, 386 01 Strakonice
+
+Členství: ČHSO
 
  
 
@@ -74,7 +82,9 @@ Telefon: +420 382 734 010, +420 603 254 072
 
 Email: pechacek@domovzbesicky.cz 
 
-Adresa: Zběšičky 23, 398 43 Bernartice u Milevska 
+Adresa: Zběšičky 23, 398 43 Bernartice u Milevska
+
+Členství: -
 
  
 
@@ -90,7 +100,9 @@ Telefon: +420 603 898 272
 
 Email: misulap@seznam.cz 
 
-Adresa: Čsl.  Armády 925/33, 390 03 Tábor 
+Adresa: Čsl.  Armády 925/33, 390 03 Tábor
+
+Členství: ČSMPS
 
  
 
@@ -108,6 +120,8 @@ Email: kamil.or@seznam.cz
 
 Adresa: Záluží 17, 390 02 Tábor 
 
+Členství: ČSMPS
+
  
 
 SK Lišov, z. s. 
@@ -122,7 +136,9 @@ Telefon: +420 606 831 152
 
 Email: rudolffanta@seznam.cz 
 
-Adresa: tř. 5. května 139, 373 72 Lišov 
+Adresa: tř. 5. května 139, 373 72 Lišov
+
+Členství: -
 
  
 
@@ -138,7 +154,9 @@ Telefon: +420 731 790 630
 
 Email: prochazka@kanka.info 
 
-Adresa: Hradební 196/2, 390 01 Tábor 
+Adresa: Hradební 196/2, 390 01 Tábor
+
+Členství: ČHSO
 
  
 
@@ -154,7 +172,9 @@ Telefon: +420 383 322 241
 
 Email: karolina.hejtmankova@muss.strakonice.eu 
 
-Adresa: Ellerova 160, 386 01 Strakonice 
+Adresa: Ellerova 160, 386 01 Strakonice
+
+Členství: -
 
  
 
@@ -170,7 +190,9 @@ Telefon: +420 380 301 751
 
 Email: lidakova@domovlibnic.cz 
 
-Adresa: Pražská tř. 2888/88a, 370 04 České Budějovice 
+Adresa: Pražská tř. 2888/88a, 370 04 České Budějovice
+
+Členství: -
 
  
 
@@ -186,7 +208,9 @@ Telefon: +420 388 328 159
 
 Email: mrazkova-jana@seznam.cz 
 
-Adresa: Dub 26, 384 25 Dub u Prachatic 
+Adresa: Dub 26, 384 25 Dub u Prachatic
+
+Členství: -
 
  
 
@@ -203,3 +227,5 @@ Telefon: +420 774 182 987
 Email: dezdak@seznam.cz 
 
 Adresa: Pod Hradem 128, 386 01 Strakonice 
+
+Členství: ČSMPS

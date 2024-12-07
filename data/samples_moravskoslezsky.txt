@@ -10,7 +10,9 @@ Telefon: +420 554 773 010
 
 E-mail: sagapo@sagapo.cz 
 
-Adresa: Lidická 1758/25, 792 01 Bruntál 
+Adresa: Lidická 1758/25, 792 01 Bruntál
+
+Členství: -
 
  
 
@@ -26,7 +28,9 @@ Telefon: +420 734 462 370
 
 E-mail: andrea.hajkova@cmelacek.cz 
 
-Adresa: Mjr. Nováka 1455/34, 700 30 Ostrava – Hrabůvka 
+Adresa: Mjr. Nováka 1455/34, 700 30 Ostrava – Hrabůvka
+
+Členství: -
 
  
 
@@ -42,7 +46,9 @@ Telefon: +420 604 881 105
 
 Email: Martin000poruba@seznam.cz 
 
-Adresa: ul. Česká 320, 742 21 Kopřivnice 
+Adresa: ul. Česká 320, 742 21 Kopřivnice
+
+Členství: ČHSO
 
  
 
@@ -58,7 +64,9 @@ Telefon: +420 723 816 895
 
 Email: radekzlin@seznam.cz 
 
-Adresa: J. Lohrera 799, 738 01 Frýdek Místek 
+Adresa: J. Lohrera 799, 738 01 Frýdek Místek
+
+Členství: ČSMPS
 
  
 
@@ -74,7 +82,9 @@ Telefon: +420 596 813 388
 
 Email: lipsoc@sante-havirov.cz 
 
-Adresa: Tajovského 1156/1, 736 01 Havířov-Podlesí 
+Adresa: Tajovského 1156/1, 736 01 Havířov-Podlesí
+
+Členství: ČHSO
 
  
 
@@ -90,7 +100,9 @@ Telefon: +420 602 601 120
 
 E-mail: info@linieradosti.cz 
 
-Adresa: Jamnická 505, 738 01 Staré Město 
+Adresa: Jamnická 505, 738 01 Staré Město
+
+Členství: -
 
  
 
@@ -106,7 +118,9 @@ Telefon: +420 605 441 672
 
 Email: r.sumkova@seznam.cz 
 
-Adresa: Hladnovská 751/119, 712 00 Ostrava 
+Adresa: Hladnovská 751/119, 712 00 Ostrava
+
+Členství: ČHSO
 
  
 
@@ -122,7 +136,9 @@ Telefon: +420 605 441 672
 
 Email: kalocova6@seznam.cz 
 
-Adresa: Jugoslávská 2843/47, 700 30 Ostrava-Jih 
+Adresa: Jugoslávská 2843/47, 700 30 Ostrava-Jih
+
+Členství: ČSMPS
 
  
 
@@ -138,7 +154,9 @@ Telefon: +420 596 223 279
 
 Email: kalocova6@seznam.cz 
 
-Adresa: Hladnovská 751/119, 712 00 Ostrava 
+Adresa: Hladnovská 751/119, 712 00 Ostrava
+
+Členství: ČHSO
 
  
 
@@ -155,3 +173,5 @@ Telefon: +420 604 970 911
 Email: Danuses@seznam.cz 
 
 Adresa: Fügnerova 767/10, 747 05 Opava
+
+Členství: ČHSO

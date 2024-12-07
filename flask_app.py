@@ -21,6 +21,7 @@ class Sample(db.Model):
     email = db.Column(db.String(100))
     address = db.Column(db.String(200))
     district = db.Column(db.String(50))
+    membership = db.Column(db.String(50))
 
 class SampleForm(FlaskForm):
     name = StringField('Name', render_kw={"placeholder": "Name"}, validators=[DataRequired()])
@@ -31,6 +32,7 @@ class SampleForm(FlaskForm):
     email = StringField('Email', render_kw={"placeholder": "Email"})
     address = StringField('Address', render_kw={"placeholder": "Address"})
     district = StringField('District', render_kw={"placeholder": "District"})
+    membership = StringField('Membership', render_kw={"placeholder": "membership"})
 
 class Example(db.Model):
     id = db.Column(db.Integer, primary_key=True)
@@ -45,7 +47,8 @@ def add_entry(entry):
         tel=entry.get('tel'),
         email=entry.get('email'),
         address=entry.get('address'),
-        district=entry['district']
+        district=entry['district'],
+        membership=entry.get('membership')
     )
     db.session.add(sample)
     db.session.commit()
@@ -67,6 +70,8 @@ def add_entries_from_file(file_path, district):
                 entry['email'] = line.split(': ')[1]
             elif line.startswith('Adresa'):
                 entry['address'] = line.split(': ')[1]
+            elif line.startswith('Členství'):
+                entry['membership'] = line.split(': ')[1]
                 add_entry(entry)
                 entry = {'district': district}
             elif re.match(r'^\s*$', line):  # Empty line
@@ -97,7 +102,8 @@ def add_sample(entry):
             tel=form.tel.data,
             email=form.email.data,
             address=form.address.data,
-            district=form.district.data
+            district=form.district.data,
+            membership=form.membership.data
         )
         db.session.add(sample)
         db.session.commit()
@@ -148,11 +154,11 @@ def show_samples(district):
 if __name__ == '__main__':
     with app.app_context():
         db.create_all()
-        # db.session.query(Sample).delete()
-        # db.session.commit()
-        # districts = ['praha', 'stredocesky', 'jihocesky', 'plzen', 'karlovarsky',
-        #              'ustecky', 'liberec', 'kralovehradecky', 'pardubicky',
-        #              'vysocina', 'jihomoravsky', 'olomouc', 'moravskoslezsky', 'zlin']
-        # for district in districts:
-        #     add_entries_from_file(f'data/samples_{district}.txt', district)
+        db.session.query(Sample).delete()
+        db.session.commit()
+        districts = ['praha', 'stredocesky', 'jihocesky', 'plzen', 'karlovarsky',
+                     'ustecky', 'liberec', 'kralovehradecky', 'pardubicky',
+                     'vysocina', 'jihomoravsky', 'olomouc', 'moravskoslezsky', 'zlin']
+        for district in districts:
+            add_entries_from_file(f'data/samples_{district}.txt', district)
     app.run(debug=True)
